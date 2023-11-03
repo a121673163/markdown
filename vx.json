@@ -5,6 +5,9 @@
     "folders": [
         {
             "name": "centos"
+        },
+        {
+            "name": "docker"
         }
     ],
     "id": "1",
